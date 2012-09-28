@@ -1,0 +1,3 @@
+This is a simple devise app based on Tony Lea's amazing tut http://www.tonylea.com/2012/rails-authentication-with-devise/
+
+Note that I locked the versions and all that down otherwise it doesn't work right.  
